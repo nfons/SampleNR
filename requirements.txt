@@ -1,0 +1,8 @@
+numpy
+opencv2
+py
+pytest
+pytest-xdist
+selenium
+newrelic
+aiohttp
